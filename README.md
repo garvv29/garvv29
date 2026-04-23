@@ -80,8 +80,6 @@ const garv = {
 
 </details>
 
----
-
 ## 🎨 Projects I've Built
 
 <div align="center">
