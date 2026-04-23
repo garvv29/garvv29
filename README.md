@@ -1,7 +1,7 @@
 <h1><!-- Hero Section -->
 <div align="center">
   <a href="https://github.com/garvv29">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=👨‍💻+Hi+I'm+Garv;Full+Stack+Developer+%7C+Code+Enthusiast;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=👨‍💻+Hi+I'm+Garv;Full+Stack+Developer+%7C+Ai+Enthusiast;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,8 +12,6 @@
 <h1 align="center">
   <img src="name.svg" alt="Garv" />
 </h1>
-
-### *Crafting elegant solutions for complex problems*
 
 
 </div>
