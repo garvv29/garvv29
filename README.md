@@ -22,23 +22,18 @@
 
 ```javascript
 const garv = {
-  title: "Full Stack Developer | AI Integration Specialist",
+  title: "Full Stack Developer & App Developer",
   email: "s4mbh4v@gmail.com",
   phone: "+91-9340938157",
   location: "Raipur, Chhattisgarh 🇮🇳",
   
-  experience: {
-    governmentProjects: "5+ live platforms (healthcare, education, governance)",
-    currentRole: "App/Web Developer Trainee @ VNR Seeds",
-    specialization: "Enterprise apps, AI features, Production debugging"
-  },
+  experience: "Working on real projects in government tech, enterprise apps, and AI",
   
   languages: ["C++", "Python", "Java", "JavaScript", "PHP", "SQL"],
-  specialties: ["Full Stack Development", "AI/ML Integration", "Mobile & Web", "QR Systems", "Database Design"],
-  currentlyLearning: "Advanced Backend Optimization & Cloud Architecture",
-  askMeAbout: ["Production Apps", "Flutter/React", "Problem Solving", "Government Projects"],
+  techStack: ["React", "Flutter", "Node.js", "MySQL", "Firebase"],
+  interests: ["Full Stack Development", "Problem Solving", "Learning New Tech"],
   
-  funFact: "I've built apps used by thousands across government platforms 🚀"
+  status: "Currently learning & building 🚀"
 };
 ```
 
@@ -82,73 +77,44 @@ const garv = {
 
 ---
 
-## 📊 Quick Stats
 
-<div align="center">
 
-```
-🎯 Real-World Projects: 5+
-🌍 Users Impacted: 500+  
-🏆 Govt Recognition: ✅ Received
-🔧 Tech Stack: 15+ Technologies
-📱 Mobile Apps: 3+
-💼 Production Apps: Live & Running
-🚀 Projects in Development: Growing
-```
+### 💪 What Drives Me
 
-### 💪 My Superpowers
+- 🚀 Building real projects that solve problems
+- 📚 Always learning new technologies
+- 💻 Writing clean, maintainable code
+- 🤝 Collaborating with teams
 
-✨ **AI Integration** - Plant health detection, ML models in production  
-⚡ **Fast Learner** - Mastered new frameworks in weeks  
-🎯 **Problem Solver** - Enterprise-level debugging & optimization  
-🔐 **Production Ready** - Apps used by thousands daily  
-🤝 **Collaborative** - Worked across PHP, Flutter, React, Java teams  
 
-</div>
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvv29&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvv29&theme=tokyonight&layout=compact&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garvv29&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## � My Work
 
 <details open>
-<summary><b>📈 My Journey So Far</b></summary>
+<summary><b>📌 What I'm doing right now</b></summary>
 
-- 🎯 **5+** Live public-facing government platforms developed
-- 🌟 **500+** Active users across platforms
-- 🤖 **AI Integration**: Plant detection, Text-to-speech, Real-time analytics
-- 🏆 **Government Recognition** from Chhattisgarh for State-Level App Development
-- 💼 **Production Experience**: Debugging enterprise-level applications at VNR Seeds
-- 🔧 **QR Systems**: Automated store & inventory tracking
-- 📚 **Multiple Certifications**: NPTEL Java, Google Kotlin, IBM AI, GFG DSA
-- 🎓 **Strong Academics**: CGPA 8.01 @ SSIPMT (5th semester ongoing)
-- 🚀 **Full-Stack Capabilities**: Mobile, Web, Backend, AI/ML features
+- Working on government projects involving education & agriculture tech
+- Debugging production apps at VNR Seeds (real enterprise experience)
+- Learning from working across multiple tech stacks (PHP, Flutter, React)
+- Building both web and mobile applications
+- Exploring AI/ML integrations in practical applications
 
 </details>
 
 ---
 
-## 🎨 Featured Projects
+## 🎨 Projects I've Built
 
 <div align="center">
 
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|-----------|--------|
-| [🌿 Har Ghar Munga](#) | Bilingual nutrition app with AI plant detection & student tracking | Flutter, PHP, React, MySQL | 500+ Users |
-| [📚 Faculty Activity](#) | SSIPMT faculty management system for publications & research | PHP, MySQL | Institution-wide |
-| [💚 Green Palna](#) | District-level Moringa plantation tracking | Full Stack | District Level |
-| [🏆 Harihar Pathshala](#) | Educational platform with progress tracking | Full Stack | Live Platform |
-| [💍 Kin Jewellery App](#) | Cross-platform ecommerce application | Flutter | Production |
-| [🏦 Digital Wallet System](#) | Full-stack payment system integration | React, Node, APIs | Working |
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **Har Ghar Munga** | Nutrition awareness app with plant health tracking | Flutter, React, MySQL |
+| **Faculty Activity** | System for managing research & academic records | PHP, MySQL |
+| **Digital Wallet** | Payment integration & ecommerce | React, Node.js |
+| **Inventory Tracking** | QR-based store management system | PHP, MySQL |
 
 </div>
 
@@ -159,43 +125,22 @@ const garv = {
 <details>
 <summary><b>🚀 My Professional Journey</b></summary>
 
-### 🏛️ Government Projects (May – Aug 2025)
-- Worked on **5+ live public-facing platforms** across healthcare, education, and governance
-- Integrated **AI features**: plant health detection, text-to-speech, real-time analytics
-- Full-stack development with React, Flutter, Flask, Node.js, PHP, MySQL
-- Impacted thousands of users across state-level applications
+### 🏛️ Government Projects
+- Worked on several government platforms in healthcare, education, and agriculture
+- Gained hands-on experience with full-stack development
+- Learned how production systems work at scale
 
-### 💼 VNR Seeds Private Limited (Feb – Present)
-- Debugging **production-level enterprise applications**
-- Working with large-scale databases using PHP, cPanel, production workflows
-- Automated store & inventory processes using **QR code-based tracking systems**
-- Gained end-to-end understanding of industrial operations & system integration
-- Collaborated with multidisciplinary teams (PHP, Flutter, Java modules)
+### 🌱 Current Role - VNR Seeds
+- Working on production applications using PHP and databases
+- Debugging real enterprise issues
+- Understanding industrial workflows and system integration
 
-### 🌐 Skyvo Technologies Pvt. Ltd (Jul – Aug 2025)
-- Frontend-backend integration for **digital wallet systems**
-- Built fully functional **ecommerce platform** (Home, Menu, Cart, Payment)
-- Enhanced UI/UX expertise using HTML, CSS, Bootstrap
-
-**Current Focus:**
-- 🔥 Production-grade application development
-- 🎨 Full-stack modern tech stack
-- 📚 Scaling & optimization
-- 🤝 Multidisciplinary collaboration
-
-</details>
-
-<details>
-<summary><b>🎓 Certifications & Continuous Learning</b></summary>
-
-- ✅ **NPTEL**: Programming in Java
-- ✅ **Google**: Android App Development using Kotlin (10-week virtual internship, Apr–Jun 2025)
-- ✅ **IBM**: Python for Data Science & AI
-- ✅ **GFG**: 160 Days of DSA Challenge
-- 🏆 **Government of Chhattisgarh**: Recognition for State-Level App Development
-- 🎓 **BTech CSE @ SSIPMT** (CGPA 8.01) - 5th Semester (2023-2027)
-
-</details>
+### 📖 Learning & Certifications
+- ✅ NPTEL: Programming in Java
+- ✅ Google: Android App Development using Kotlin  
+- ✅ IBM: Python for Data Science
+- ✅ GFG: DSA Fundamentals
+- 🎓 BTech CSE @ SSIPMT (Currently: 5th semester)
 
 ---
 
@@ -215,51 +160,13 @@ const garv = {
 
 ---
 
-## 💬 Let's Connect
-
-I'm always interested in:
-- 🤝 Collaborating on exciting projects
-- 💡 Discussing tech & innovative ideas
-- 🚀 Building something amazing together
-- 🎯 Open source contributions & community
-
----
-
-## 🎮 Interactive & Fun Stuff
+## 🔗 Connect
 
 <div align="center">
 
-### 🔥 Code Stats That Matter
-
-```
-⚡ Performance: Lightning Fast
-📊 Code Quality: Always Improving  
-🎯 Delivery: On Point
-💡 Innovation: Constant
-```
-
-### 🎨 What Makes Me Different?
-
-- 🚀 **Speed**: Fast problem solver
-- 🎯 **Precision**: Attention to detail
-- 🌟 **Innovation**: Always exploring new tech
-- 💪 **Reliability**: Code you can trust
-- 🤝 **Collaboration**: Team player mindset
-
-</div>
-
----
-
-## 🌍 Explore More
-
-<div align="center">
-
-🔗 **Check out my work:**
-
-- 🖥️ **Portfolio:** [g4rv.me](https://g4rv.me) - See all my projects
-- 💻 **GitHub Projects:** Explore my repositories
-- 🎨 **Code Quality:** Clean, modern, scalable solutions
-- 🚀 **Always Building:** New projects coming soon!
+[![Portfolio](https://img.shields.io/badge/Portfolio-g4rv.me-FF6B00?style=flat&labelColor=000000)](https://g4rv.me)
+[![Email](https://img.shields.io/badge/Email-s4mbh4v@gmail.com-EA4335?style=flat&labelColor=000000)](mailto:s4mbh4v@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9340938157-00D9FF?style=flat&labelColor=000000)](tel:+919340938157)
 
 </div>
 
@@ -267,21 +174,7 @@ I'm always interested in:
 
 <div align="center">
 
-**Feel free to reach out!** I'm just a message away.
-
-### 🎉 Thanks for visiting my profile!
-
-```
-   ___   ___   __  ____  ______     __  ___    ______
-  / _ | / _ | / / / __ \/_  __/    / / / _ |  / ____/
- / __ |/ __ |/ / / /_/ /  / /     / / / __ | / __/   
-/ ___ / ___ / / / _, _/  / /     / / / __ |/ /___   
-/_/  |_/_/  /_/ /_/ |_|  /_/     /_/ /_/  |_/_____/  
-
-           ✨ Visit g4rv.me ✨
-```
-
-**[⬆ back to top](#)**
+Want to chat about tech or collaborate? Feel free to reach out! 
 
 </div>
 
