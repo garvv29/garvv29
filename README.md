@@ -62,8 +62,14 @@ const garv = {
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-
 </div>
+
+---
+
+## 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## � My Work
