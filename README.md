@@ -71,8 +71,11 @@ const garv = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
 
-## � My Work
+## 🎮 My Contribution Game
+
+![My GitHub Game](game.gif)
 
 <details open>
 <summary><b>📌 What I'm doing right now</b></summary>
