@@ -63,14 +63,6 @@ const garv = {
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
-
----
-
-## 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🎮 My Contribution Game
