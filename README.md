@@ -77,12 +77,6 @@ const garv = {
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### 🎓 Core CS Concepts
-- 📊 Data Structures & Algorithms
-- 🔗 Backend Integration & APIs  
-- 💾 Database Design & Optimization
-- 🖥️ Operating Systems
-- 🌐 Computer Networks
 
 </div>
 
