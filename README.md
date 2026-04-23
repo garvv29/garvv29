@@ -9,7 +9,9 @@
 
 <div align="center">
 
-# 🔥 **Garv's Code Universe**
+<h1 align="center">
+  <img src="name.svg" alt="Garv" />
+</h1>
 
 ### *Crafting elegant solutions for complex problems*
 
