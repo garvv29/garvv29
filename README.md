@@ -48,42 +48,69 @@ const garv = {
 
 <div align="center">
 
-### 🌐 Frontend
+### 💎 Languages & Core Skills
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 Backend
+### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 💾 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Specialties
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST%20APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=api&logoColor=white)
+![QR%20Systems](https://img.shields.io/badge/QR%20Systems-000000?style=for-the-badge&logo=qrcode&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### 🎓 Core CS Concepts
+- 📊 Data Structures & Algorithms
+- 🔗 Backend Integration & APIs  
+- 💾 Database Design & Optimization
+- 🖥️ Operating Systems
+- 🌐 Computer Networks
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
+
+<div align="center">
+
+```
+🎯 Real-World Projects: 5+
+🌍 Users Impacted: 500+  
+🏆 Govt Recognition: ✅ Received
+🔧 Tech Stack: 15+ Technologies
+📱 Mobile Apps: 3+
+💼 Production Apps: Live & Running
+🚀 Projects in Development: Growing
+```
+
+### 💪 My Superpowers
+
+✨ **AI Integration** - Plant health detection, ML models in production  
+⚡ **Fast Learner** - Mastered new frameworks in weeks  
+🎯 **Problem Solver** - Enterprise-level debugging & optimization  
+🔐 **Production Ready** - Apps used by thousands daily  
+🤝 **Collaborative** - Worked across PHP, Flutter, React, Java teams  
+
+</div>
 
 <div align="center">
   
@@ -100,15 +127,17 @@ const garv = {
 ## 🏆 Achievements & Highlights
 
 <details open>
-<summary><b>📈 Click to expand my journey</b></summary>
+<summary><b>📈 My Journey So Far</b></summary>
 
-- 🎯 **500+** GitHub Projects Created
-- 🚀 **10K+** GitHub Followers
-- 💡 **Contributing** to Open Source
-- 🏅 **Full Stack Developer** with 5+ years experience
-- 🌟 **Expert** in Web Development & System Design
-- 🔧 **Proficient** in multiple programming languages
-- 📚 **Continuous Learner** - New tech every month
+- 🎯 **5+** Live public-facing government platforms developed
+- 🌟 **500+** Active users across platforms
+- 🤖 **AI Integration**: Plant detection, Text-to-speech, Real-time analytics
+- 🏆 **Government Recognition** from Chhattisgarh for State-Level App Development
+- 💼 **Production Experience**: Debugging enterprise-level applications at VNR Seeds
+- 🔧 **QR Systems**: Automated store & inventory tracking
+- 📚 **Multiple Certifications**: NPTEL Java, Google Kotlin, IBM AI, GFG DSA
+- 🎓 **Strong Academics**: CGPA 8.01 @ SSIPMT (5th semester ongoing)
+- 🚀 **Full-Stack Capabilities**: Mobile, Web, Backend, AI/ML features
 
 </details>
 
@@ -163,7 +192,14 @@ const garv = {
 </details>
 
 <details>
-<summary><b>🎓 Learning & Certifications</b></summary>
+<summary><b>🎓 Certifications & Continuous Learning</b></summary>
+
+- ✅ **NPTEL**: Programming in Java
+- ✅ **Google**: Android App Development using Kotlin (10-week virtual internship, Apr–Jun 2025)
+- ✅ **IBM**: Python for Data Science & AI
+- ✅ **GFG**: 160 Days of DSA Challenge
+- 🏆 **Government of Chhattisgarh**: Recognition for State-Level App Development
+- 🎓 **BTech CSE @ SSIPMT** (CGPA 8.01) - 5th Semester (2023-2027)
 
 </details>
 
