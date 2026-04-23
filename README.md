@@ -65,20 +65,6 @@ const garv = {
 
 </div>
 
----
-
-
-
-### 💪 What Drives Me
-
-- 🚀 Building real projects that solve problems
-- 📚 Always learning new technologies
-- 💻 Writing clean, maintainable code
-- 🤝 Collaborating with teams
-
-
-
----
 
 ## � My Work
 
