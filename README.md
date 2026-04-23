@@ -1,11 +1,3 @@
-<h1><!-- Hero Section -->
-<div align="center">
-  <a href="https://github.com/garvv29">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=👨‍💻+Hi+I'm+Garv;Full+Stack+Developer+%7C+Ai+Enthusiast;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
-  </a>
-</div>
-
----
 
 <div align="center">
 
@@ -15,8 +7,6 @@
 
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -153,9 +143,7 @@ const garv = {
 [![🌐 g4rv.me](https://img.shields.io/badge/🌐_g4rv.me-FF6B00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://g4rv.me)
 [![📧 Email](https://img.shields.io/badge/📧_s4mbh4v@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:s4mbh4v@gmail.com)
 [![📱 Mobile](https://img.shields.io/badge/📱_%2B91--9340938157-00D9FF?style=for-the-badge&logo=phone&logoColor=white&labelColor=000000)](tel:+919340938157)
-[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yourprofile)
-[![💬 Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/yourserver)
-
+[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/garv-choure-807870335/)
 </div>
 
 ---
