@@ -13,10 +13,6 @@
 
 ### *Crafting elegant solutions for complex problems*
 
-![Profile views](https://komarev.com/ghpvc/?username=garvv29&label=Profile+Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/garvv29?style=for-the-badge&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/garvv29?style=for-the-badge&logo=github)
-
 
 </div>
 
@@ -26,12 +22,23 @@
 
 ```javascript
 const garv = {
-  title: "Full Stack Developer",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "SQL"],
-  specialties: ["Web Development", "Backend Architecture", "Database Design", "API Development"],
-  currentlyLearning: "AI/ML Integration & Cloud Architecture",
-  askMeAbout: ["Web Development", "Problem Solving", "Code Architecture"],
-  funFact: "I believe clean code is art 🎨"
+  title: "Full Stack Developer | AI Integration Specialist",
+  email: "s4mbh4v@gmail.com",
+  phone: "+91-9340938157",
+  location: "Raipur, Chhattisgarh 🇮🇳",
+  
+  experience: {
+    governmentProjects: "5+ live platforms (healthcare, education, governance)",
+    currentRole: "App/Web Developer Trainee @ VNR Seeds",
+    specialization: "Enterprise apps, AI features, Production debugging"
+  },
+  
+  languages: ["C++", "Python", "Java", "JavaScript", "PHP", "SQL"],
+  specialties: ["Full Stack Development", "AI/ML Integration", "Mobile & Web", "QR Systems", "Database Design"],
+  currentlyLearning: "Advanced Backend Optimization & Cloud Architecture",
+  askMeAbout: ["Production Apps", "Flutter/React", "Problem Solving", "Government Projects"],
+  
+  funFact: "I've built apps used by thousands across government platforms 🚀"
 };
 ```
 
@@ -111,74 +118,68 @@ const garv = {
 
 <div align="center">
 
-| Project | Description | Languages | Stars |
-|---------|-------------|-----------|-------|
-| [🚀 Project Name](#) | Lightning fast, feature-rich app | JS, React, Node | ⭐⭐⭐⭐⭐ |
-| [💼 Business Suite](#) | Enterprise solution | Java, Spring, MySQL | ⭐⭐⭐⭐ |
-| [🤖 AI Assistant](#) | Smart automation tool | Python, TensorFlow | ⭐⭐⭐⭐ |
-| [📱 Mobile App](#) | Cross-platform application | React Native | ⭐⭐⭐⭐⭐ |
+| Project | Description | Tech Stack | Impact |
+|---------|-------------|-----------|--------|
+| [🌿 Har Ghar Munga](#) | Bilingual nutrition app with AI plant detection & student tracking | Flutter, PHP, React, MySQL | 500+ Users |
+| [📚 Faculty Activity](#) | SSIPMT faculty management system for publications & research | PHP, MySQL | Institution-wide |
+| [💚 Green Palna](#) | District-level Moringa plantation tracking | Full Stack | District Level |
+| [🏆 Harihar Pathshala](#) | Educational platform with progress tracking | Full Stack | Live Platform |
+| [💍 Kin Jewellery App](#) | Cross-platform ecommerce application | Flutter | Production |
+| [🏦 Digital Wallet System](#) | Full-stack payment system integration | React, Node, APIs | Working |
 
 </div>
 
 ---
 
-## 📈 What I've Built
+## � What I'm Working On
 
 <details>
-<summary><b>👨‍💼 Professional Experience</b></summary>
+<summary><b>🚀 My Professional Journey</b></summary>
 
-### Senior Full Stack Developer
-- Built scalable microservices architecture
-- Led team of 5+ developers
-- Reduced API response time by 60%
-- Mentored junior developers on best practices
+### 🏛️ Government Projects (May – Aug 2025)
+- Worked on **5+ live public-facing platforms** across healthcare, education, and governance
+- Integrated **AI features**: plant health detection, text-to-speech, real-time analytics
+- Full-stack development with React, Flutter, Flask, Node.js, PHP, MySQL
+- Impacted thousands of users across state-level applications
 
-### Full Stack Developer
-- Developed 20+ production applications
-- Implemented CI/CD pipelines
-- Optimized database queries (40% improvement)
-- Led code reviews and documentation
+### 💼 VNR Seeds Private Limited (Feb – Present)
+- Debugging **production-level enterprise applications**
+- Working with large-scale databases using PHP, cPanel, production workflows
+- Automated store & inventory processes using **QR code-based tracking systems**
+- Gained end-to-end understanding of industrial operations & system integration
+- Collaborated with multidisciplinary teams (PHP, Flutter, Java modules)
+
+### 🌐 Skyvo Technologies Pvt. Ltd (Jul – Aug 2025)
+- Frontend-backend integration for **digital wallet systems**
+- Built fully functional **ecommerce platform** (Home, Menu, Cart, Payment)
+- Enhanced UI/UX expertise using HTML, CSS, Bootstrap
+
+**Current Focus:**
+- 🔥 Production-grade application development
+- 🎨 Full-stack modern tech stack
+- 📚 Scaling & optimization
+- 🤝 Multidisciplinary collaboration
 
 </details>
 
 <details>
 <summary><b>🎓 Learning & Certifications</b></summary>
 
-- ✅ **AWS Solutions Architect Associate**
-- ✅ **Full Stack Web Development Bootcamp**
-- ✅ **Data Structures & Algorithms Expert**
-- ✅ **Docker & Kubernetes Certified**
-- 🔄 **Currently Learning**: AI/ML & Cloud Architecture
-
 </details>
 
 ---
 
-## 📝 Latest Blog Posts
 
-<details>
-<summary><b>📰 Recent Articles</b></summary>
-
-- 📖 [Building Scalable APIs with Node.js](#)
-- 📖 [React Performance Optimization Tips](#)
-- 📖 [Database Design Best Practices](#)
-- 📖 [Microservices Architecture Guide](#)
-
-> ➡️ [Visit my blog](#) for more articles!
-
-</details>
-
----
 
 ## 🎯 Quick Links
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![🌐 g4rv.me](https://img.shields.io/badge/🌐_g4rv.me-FF6B00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://g4rv.me)
+[![📧 Email](https://img.shields.io/badge/📧_s4mbh4v@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:s4mbh4v@gmail.com)
+[![📱 Mobile](https://img.shields.io/badge/📱_%2B91--9340938157-00D9FF?style=for-the-badge&logo=phone&logoColor=white&labelColor=000000)](tel:+919340938157)
+[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yourprofile)
+[![💬 Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/yourserver)
 
 </div>
 
@@ -189,8 +190,50 @@ const garv = {
 I'm always interested in:
 - 🤝 Collaborating on exciting projects
 - 💡 Discussing tech & innovative ideas
-- 🎓 Mentoring & sharing knowledge
 - 🚀 Building something amazing together
+- 🎯 Open source contributions & community
+
+---
+
+## 🎮 Interactive & Fun Stuff
+
+<div align="center">
+
+### 🔥 Code Stats That Matter
+
+```
+⚡ Performance: Lightning Fast
+📊 Code Quality: Always Improving  
+🎯 Delivery: On Point
+💡 Innovation: Constant
+```
+
+### 🎨 What Makes Me Different?
+
+- 🚀 **Speed**: Fast problem solver
+- 🎯 **Precision**: Attention to detail
+- 🌟 **Innovation**: Always exploring new tech
+- 💪 **Reliability**: Code you can trust
+- 🤝 **Collaboration**: Team player mindset
+
+</div>
+
+---
+
+## 🌍 Explore More
+
+<div align="center">
+
+🔗 **Check out my work:**
+
+- 🖥️ **Portfolio:** [g4rv.me](https://g4rv.me) - See all my projects
+- 💻 **GitHub Projects:** Explore my repositories
+- 🎨 **Code Quality:** Clean, modern, scalable solutions
+- 🚀 **Always Building:** New projects coming soon!
+
+</div>
+
+---
 
 <div align="center">
 
@@ -199,11 +242,13 @@ I'm always interested in:
 ### 🎉 Thanks for visiting my profile!
 
 ```
-  ____    _    ____  __     _____ __  __    _   _      _    ____   ___  
- / ___|  / \  |  _ \ \ \   / /_ _|  \/  |  | \ | |    / \  |  _ \ / _ \ 
-| |    / _ \ | |_) | \ \ / / | || |\/| |  |  \| |   / _ \ | |_) | | | |
-| |___ / ___ \|  _ <   \ V /  | || |  | |  | |\  |  / ___ \|  _ <| |_| |
- \____|_/   \_\_| \_\   \_/  |___|_|  |_|  |_| \_| /_/   \_\_| \_\\___/ 
+   ___   ___   __  ____  ______     __  ___    ______
+  / _ | / _ | / / / __ \/_  __/    / / / _ |  / ____/
+ / __ |/ __ |/ / / /_/ /  / /     / / / __ | / __/   
+/ ___ / ___ / / / _, _/  / /     / / / __ |/ /___   
+/_/  |_/_/  /_/ /_/ |_|  /_/     /_/ /_/  |_/_____/  
+
+           ✨ Visit g4rv.me ✨
 ```
 
 **[⬆ back to top](#)**
