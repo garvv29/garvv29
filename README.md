@@ -97,7 +97,6 @@ const garv = {
 
 ## � What I'm Working On
 
-<details>
 <summary><b> My Professional Journey</b></summary>
 
 ### 🏛️ Government Projects
