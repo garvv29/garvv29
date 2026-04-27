@@ -121,7 +121,7 @@ const garv = {
 
 
 
-## 🎯 Quick Links
+##  Quick Links
 
 <div align="center">
 
