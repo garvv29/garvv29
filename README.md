@@ -104,10 +104,14 @@ const garv = {
 - Gained hands-on experience with full-stack development
 - Learned how production systems work at scale
 
-### 🌱 Current Role - VNR Seeds
-- Working on production applications using PHP and databases
-- Debugging real enterprise issues
-- Understanding industrial workflows and system integration
+### 🌱 VNR Seeds
+- Worked on production applications using PHP and databases
+- Debugged real enterprise issues
+- Understood industrial workflows and system integration
+
+### 🧑🏻‍💻 Currently - CodeQuotient
+- Web Devlopment Intern in a complete corporate environment
+- Built Redis Lite without using built in libraries built my own data structure libraries then built redis lite on top of it.
 
 ### 📖 Learning & Certifications
 - ✅ NPTEL: Programming in Java
